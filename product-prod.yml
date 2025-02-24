@@ -1,0 +1,7 @@
+product:
+  name: "Product Production"
+  price: 150.0
+  category: "Electronics"
+  details:
+    description: "High-quality production product"
+    manufacturer: "ABC Corp"
