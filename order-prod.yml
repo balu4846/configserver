@@ -1,0 +1,9 @@
+order:
+  id: "ORD123"
+  customerName: "John Doe"
+  shippingAddress:
+    street: "123 Main Street"
+    city: "Khairatabad"
+    state: "Telangana"
+    zipCode: "500004"
+  
