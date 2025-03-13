@@ -8,4 +8,4 @@ eureka:
     registerWithEureka: true
     fetchRegistry: true
   instance:
-   hostname: localhost
+    preferIpAddress: true
