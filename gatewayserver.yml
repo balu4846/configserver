@@ -1,11 +1,2 @@
-server:
-  port: 8072
 
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: "http://10.128.7.80:8070/eureka/"
-    registerWithEureka: true
-    fetchRegistry: true
-  instance:
-    preferIpAddress: true
+
